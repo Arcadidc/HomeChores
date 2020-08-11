@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">HomeChores</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Task_title">Título de la tarea</string>
+    <string name="Task_title_hint">Introduzca el título de la tarea</string>
+    <string name="Description_task_title">Descripción</string>
+    <string name="Description_task">Introduzca su descripción</string>
+    <string name="end_date_task">Fecha de finalización</string>
+    <string name="Enter_date_task_hint">Introduzca la fecha</string>
+    <string name="points_task">Puntos</string>
+    <string name="points_task_hint">Introduzca los puntos</string>
+    <string name="Assign_to_task">Asignar a</string>
+    <string name="Assign_to_task_hint">Seleccione uno</string>
+    <string name="Submit_task">Crear tarea</string>
+    <string name="Your_family">Familia:</string>
+    <string name="Create_family">Crear familia</string>
+    <string name="Your_info">Información de la cuenta:</string>
+    <string name="Username">Usuario:</string>
+    <string name="Surname">Apellido:</string>
+    <string name="email">Email:</string>
+    <string name="Points">Puntos</string>
+    <string name="Enter_family_name">Introduzca el nombre de la família</string>
+    <string name="Your_Points" >Tus puntos:</string>
+    <string name="Enter_reward">Introduzca el nombre del premio</string>
+    <string name="points_needed">Puntos necesarios:</string>
+    <string name="Repeat">Repetir</string>
+    <string name="checkbox">Admin</string>
+    <string name="Your_Tasks">Tus tareas:</string>
+    <string name="Created_by">Creada por</string>
+    <string name="Completed">Competada</string>
+    <string name="Repetitive">Repetitiva</string>
+    <string name="Reward_Title">Título del premio</string>
+    <string name="Submit_reward">Crear premio</string>
+    <string name="enter_password">Introducir contraseña</string>
+    <string name="username">Usuario</string>
+    <string name="enter_username">Introducir usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="enter_email">Introducir el email</string>
+    <string name="select_family">Seleccionar familia</string>
+    <string name="family_name">Nombre de la familia</string>
+    <string name="register_user">Registrar usuario</string>
+    <string name="Bottom_text_Register">Ya tienes cuenta?\n Haz click aquí para iniciar sesión</string>
+    <string name="Family">Familia</string>
+    <string name="Tasks">Tareas</string>
+    <string name="Rewards">Premios</string>
+    <string name="Title_tutorial1">Primer paso: Llenar toda la información</string>g>
+    <string name="Desc_tutorial1">Seleccione una familia si ya está en el sistema.</string>
+    <string name="Title_tutorial2">Segundo paso: Registrarse</string>g>
+    <string name="Desc_tutorial2">Regístrese para acceder a la aplicación.</string>
+    <string name="Title_tutorial3">Tus tareas</string>g>
+    <string name="Desc_tutorial3">Aquí veras todas tus tareas</string>
+    <string name="Title_tutorial4">Utilizando el menú superior</string>g>
+    <string name="Desc_tutorial4">Podras ver el calendario y crear nuevas tareas</string>
+    <string name="Title_tutorial5">Aquí puedes crear una nueva familia</string>
+    <string name="Desc_tutorial5">Haz click aquí si aún no tienes familia</string>
+    <string name="Title_tutorial6">Familia</string>
+    <string name="Desc_tutorial6">Aquí veras toda la información de tu familia.</string>
+    <string name="Title_tutorial7">Premios</string>
+    <string name="Desc_tutorial7">Aquí puedes crear nuevos premios</string>
+    <string name="Task_assigned">Tasca assignada a</string>
+    <string name="Task_created_by">Tasca creada per</string>
+    <string name="Yes">Sí</string>
+    <string name="No">No</string>
+
+</resources>

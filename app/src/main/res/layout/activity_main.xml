@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".activity.MainActivity">
+
+        <TextView
+            android:id="@+id/TextView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:text="@string/username" />
+
+
+    <EditText
+        android:id="@+id/editTextUsername"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/TextView1"
+        android:layout_below="@+id/TextView1"
+        android:layout_marginTop="-2dp"
+        android:hint="@string/enter_username" />
+
+    <TextView
+            android:id="@+id/TextView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/editTextUsername"
+            android:layout_below="@+id/editTextUsername"
+            android:layout_marginTop="20dp"
+            android:text="@string/password" />
+
+
+
+        <EditText
+            android:id="@+id/editTextPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/TextView2"
+            android:layout_below="@+id/TextView2"
+            android:hint="@string/enter_password"
+            android:inputType="textPassword" />
+
+        <TextView
+            android:id="@+id/TextView3"
+            android:layout_width="match_parent"
+            android:layout_marginTop="20dp"
+            android:layout_alignLeft="@+id/editTextPassword"
+            android:layout_below="@+id/editTextPassword"
+            android:layout_height="wrap_content"
+            android:text="@string/email" />
+
+        <EditText
+            android:id="@+id/editTextEmail"
+            android:layout_width="match_parent"
+            android:layout_alignLeft="@+id/TextView3"
+            android:layout_below="@+id/TextView3"
+            android:layout_height="wrap_content"
+            android:hint="@string/enter_email" />
+
+        <TextView
+            android:id="@+id/TextView4"
+            android:layout_width="match_parent"
+            android:layout_marginTop="20dp"
+            android:layout_alignLeft="@+id/editTextEmail"
+            android:layout_below="@+id/editTextEmail"
+            android:layout_height="wrap_content"
+            android:text="@string/select_family" />
+
+        <Spinner
+            android:id="@+id/spinner_family"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/TextView4"
+            android:layout_below="@+id/TextView4"
+            android:hint="@string/family_name"
+            android:dropDownHeight="100dp"
+            />
+    <View
+        android:layout_width="match_parent"
+        android:layout_alignLeft="@+id/spinner_family"
+        android:layout_below="@+id/spinner_family"
+        android:layout_height="1dp"
+        android:layout_marginTop="5dp"
+        android:background="@android:color/darker_gray"/>
+    <CheckBox
+        android:id="@+id/checkBox1"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/editTextUsername"
+        android:layout_alignBottom="@+id/editTextUsername"
+        android:layout_toEndOf="@+id/editTextUsername"
+        android:text="@string/checkbox"
+        tools:ignore="UnknownId" />
+    <Button
+        android:id="@+id/buttonRegister"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/spinner_family"
+        android:layout_below="@+id/spinner_family"
+        android:layout_marginTop="20dp"
+        android:text="@string/register_user" />
+
+    <TextView
+
+        android:id="@+id/textViewLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/buttonRegister"
+        android:text="@string/Bottom_text_Register"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
+
+
+</RelativeLayout>
+

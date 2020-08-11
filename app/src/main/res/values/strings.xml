@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">HomeChores</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Task_title">Task title</string>
+    <string name="Task_title_hint">Enter Task title</string>
+    <string name="Description_task_title">Description</string>
+    <string name="Description_task">Enter your description</string>
+    <string name="end_date_task">End date</string>
+    <string name="Enter_date_task_hint">Enter date</string>
+    <string name="points_task">Points</string>
+    <string name="points_task_hint">Enter total points</string>
+    <string name="Assign_to_task">Assign to</string>
+    <string name="Assign_to_task_hint">Select one</string>
+    <string name="Submit_task">Submit task</string>
+    <string name="Your_family">Family:</string>
+    <string name="Create_family">Create family</string>
+    <string name="Your_info">Account information:</string>
+    <string name="Username">Name:</string>
+    <string name="Surname">Surname:</string>
+    <string name="email">Email:</string>
+    <string name="Points">Points</string>
+    <string name="Enter_family_name">Enter family name</string>
+    <string name="Your_Points" >Your Points:</string>
+    <string name="Enter_reward">Enter reward name</string>
+    <string name="points_needed">Points needed:</string>
+    <string name="Repeat">Repeat</string>
+    <string name="checkbox">Admin</string>
+    <string name="Your_Tasks">Your tasks:</string>
+    <string name="Created_by">Created by</string>
+    <string name="Completed">Completed</string>
+    <string name="Repetitive">Repetitive</string>
+    <string name="Reward_Title">Reward Title</string>
+    <string name="Submit_reward">Submit reward</string>
+    <string name="username">Username</string>
+    <string name="enter_username">Enter username</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_email">Enter email</string>
+    <string name="select_family">Select Family</string>
+    <string name="family_name">Family Name</string>
+    <string name="register_user">Register User</string>
+    <string name="Bottom_text_Register">Already registered?\nClick here to login</string>
+    <string name="Family">Family</string>
+    <string name="Tasks">Tasks</string>
+    <string name="Rewards">Rewards</string>
+    <string name="Title_tutorial1">First step:  Fill all the information</string>
+    <string name="Desc_tutorial1">Select a family if it is already in the system.</string>
+    <string name="Title_tutorial2">Second step: Register</string>
+    <string name="Desc_tutorial2">Register to access the app.</string>
+    <string name="Title_tutorial3">Your tasks</string>
+    <string name="Desc_tutorial3">Here you will see all your tasks</string>
+    <string name="Title_tutorial4">Using the menu above</string>
+    <string name="Desc_tutorial4">You can view the calendar and create tasks</string>
+    <string name="Title_tutorial5">Here you can create a new family</string>
+    <string name="Desc_tutorial5">Click here if you dont have a family yet</string>
+    <string name="Title_tutorial6">Your family</string>
+    <string name="Desc_tutorial6">Here you will see all your family information</string>
+    <string name="Title_tutorial7">Rewards</string>
+    <string name="Desc_tutorial7">Here you can create new rewards</string>
+    <string name="Task_assigned">Task assigned to</string>
+    <string name="Task_created_by">Task_created_by</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+
+
+</resources>

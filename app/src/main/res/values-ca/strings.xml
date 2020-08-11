@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">HomeChores</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Task_title">Títol de la tasca</string>
+    <string name="Task_title_hint">Introdueix el títol</string>
+    <string name="Description_task_title">Descripció</string>
+    <string name="Description_task">Introdueix la descripció</string>
+    <string name="end_date_task">Data de finalització</string>
+    <string name="Enter_date_task_hint">Introdueix la data</string>
+    <string name="points_task">Punts</string>
+    <string name="points_task_hint">Introdueix els punts</string>
+    <string name="Assign_to_task">Assignar a</string>
+    <string name="Assign_to_task_hint">Selecciona un</string>
+    <string name="Submit_task">Crear tasca</string>
+    <string name="Your_family">Família:</string>
+    <string name="Create_family">Crear família</string>
+    <string name="Your_info">Informació del compte:</string>
+    <string name="Username">Usuari:</string>
+    <string name="Surname">Cognom:</string>
+    <string name="email">Email:</string>
+    <string name="Points">Punts</string>
+    <string name="Enter_family_name">Introdueix el nom de la família</string>
+    <string name="Your_Points" >Els teus punts:</string>
+    <string name="Enter_reward">Introdueix el nom del premi</string>
+    <string name="points_needed">Punts necessaris:</string>
+    <string name="Repeat">Repetició</string>
+    <string name="checkbox">Admin</string>
+    <string name="Your_Tasks">Les teves tasques:</string>
+    <string name="Created_by">Creada per</string>
+    <string name="Completed">Completada</string>
+    <string name="Repetitive">Repetitiva</string>
+    <string name="Reward_Title">Títol del premi</string>
+    <string name="Submit_reward">Crear premi</string>
+    <string name="enter_password">Introdueixi la contrasenya</string>
+    <string name="username">Usuari</string>
+    <string name="enter_username">Introdueix el nom d\'usuari</string>
+    <string name="password">Contrasenya</string>
+    <string name="enter_email">Introdueixi el email</string>
+    <string name="select_family">Selecciona una família</string>
+    <string name="family_name">Nom de la família</string>
+    <string name="register_user">Registrar usuari</string>
+    <string name="Bottom_text_Register">Ja estàs registrat?\nClica aqui per inicar sessió.</string>
+    <string name="Family">Família</string>
+    <string name="Tasks">Tasques</string>
+    <string name="Rewards">Premis</string>
+    <string name="Title_tutorial1">Primer pas: Omplir tota la informació</string>g>
+    <string name="Desc_tutorial1">Seleccioni una família si ja està al sistema</string>
+    <string name="Title_tutorial2">Segon pas: Registrar-se</string>g>
+    <string name="Desc_tutorial2">Registra\'t per accedir a l\'aplicació</string>
+    <string name="Title_tutorial3">Les teves tasques</string>g>
+    <string name="Desc_tutorial3">Aquí veuràs totes les teves tasques</string>
+    <string name="Title_tutorial4">Utilitzant el menú superior</string>g>
+    <string name="Desc_tutorial4">Podràs veure el calendari i crear tasques</string>
+    <string name="Title_tutorial5">Aquí pots crear una nova família</string>
+    <string name="Desc_tutorial5">Clica aquí si encara no tens cap família</string>
+    <string name="Title_tutorial6">La teva família</string>
+    <string name="Desc_tutorial6">Aquí veuràs tota la informació de la teva família</string>
+    <string name="Title_tutorial7">Premis</string>
+    <string name="Desc_tutorial7">Aquí pots crear nous premis</string>
+    <string name="Task_assigned">Tarea asignada a</string>
+    <string name="Task_created_by">Tarea creada por</string>
+    <string name="Yes">Sí</string>
+    <string name="No">No</string>
+
+</resources>
